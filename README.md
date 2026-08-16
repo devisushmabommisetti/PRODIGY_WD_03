@@ -6,7 +6,7 @@ The game supports both **Human vs Human** and **Human vs AI** gameplay. Players 
 
 ## 🚀 Live Project
 
-👉 **[Play Tic-Tac-Toe](https://devisushmabommisetti.github.io/PRODIGY_WD_03/).
+👉 **[Play Tic-Tac-Toe](https://devisushmabommisetti.github.io/PRODIGY_WD_03/)
 
 ## 📸 Screenshot
 
