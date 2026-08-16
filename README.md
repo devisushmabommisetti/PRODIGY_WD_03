@@ -6,15 +6,11 @@ The game supports both **Human vs Human** and **Human vs AI** gameplay. Players 
 
 ## 🚀 Live Project
 
-👉 **[Play Tic-Tac-Toe](https://devisushmabommisetti.github.io/PRODIGY_WD_03/)
-
-> Replace the link above with your actual GitHub Pages URL after deploying the project.
+👉 **[Play Tic-Tac-Toe](https://devisushmabommisetti.github.io/PRODIGY_WD_03/).
 
 ## 📸 Screenshot
 
 ![Project Screenshot](tic-tac-toe.png)
-
-GitHub supports displaying repository images using relative paths, so keeping the screenshot inside your repository is recommended.
 
 ## ✨ Features
 
