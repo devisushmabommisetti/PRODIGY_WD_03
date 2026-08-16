@@ -12,11 +12,7 @@ The game supports both **Human vs Human** and **Human vs AI** gameplay. Players 
 
 ## 📸 Screenshot
 
-<img src="screenshots/tic-tac-toe.png" alt="Tic-Tac-Toe Game Screenshot" width="700">
-
-> Make sure your screenshot is uploaded at:
->
-> `screenshots/tic-tac-toe.png`
+![Project Screenshot](tic-tac-toe.png)
 
 GitHub supports displaying repository images using relative paths, so keeping the screenshot inside your repository is recommended.
 
